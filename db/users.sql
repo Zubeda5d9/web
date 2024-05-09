@@ -7,7 +7,7 @@ create table users(userName varchar(100),userPassword varchar(100),Permission va
 
 -- insert the data into the table
 INSERT INTO `users` (`userName`, `userPassword`, `Permission`) VALUES
-('Zubeda','zubeda@123455','readonly'),('Tabassum','Tabassum@1255','write');
+('userName','userPassword','readonly'),('userName','userPassword','write');
 
 
 
